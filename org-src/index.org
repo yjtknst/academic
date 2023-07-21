@@ -1,0 +1,11 @@
+#+TITLE: Github pagesテスト
+#+AUTHOR: yjtknst
+#+DESCRIPTION: Github Pagesを用いて静的ウェブサイトを構築するテスト
+
+#+BEGIN_ABSTRACT
+これは要約。
+#+END_ABSTRACT
+
+* はじめに
+
+これが本文。

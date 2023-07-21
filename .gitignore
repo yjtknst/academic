@@ -1,0 +1,3 @@
+^#.*
+/.packages/
+/build-site.elc
