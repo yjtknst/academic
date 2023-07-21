@@ -18,4 +18,7 @@ Githubで静的ウェブサイトを運営したい。ソースはorgファイ�
 
 1. githubにacademicというリポジトリを作成
 2. git remote add origin https://github.com/yjtknst/academic.git を実行。
+3. リモートにpush
+4. github pagesを作ろうとしたら、公開ディレクトリは/(root)もしくは/docsしか選べない。そこでpublicをdocsに変更。
+5. コミット、push
 
